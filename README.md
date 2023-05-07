@@ -1,11 +1,6 @@
 # Employeemanagerapp
 
 
-
-![Web capture_7-5-2023_195841_localhost](https://user-images.githubusercontent.com/80674535/236694506-8d36091e-dd51-435c-b177-54cfcbccec7f.jpeg)
-
-
-
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.5.
 
 ## Development server
@@ -31,3 +26,8 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+![Web capture_7-5-2023_195841_localhost](https://user-images.githubusercontent.com/80674535/236694506-8d36091e-dd51-435c-b177-54cfcbccec7f.jpeg)
+
+![2](https://user-images.githubusercontent.com/80674535/236694618-07858bfa-6ab2-4401-be07-033163ab41f0.jpeg)
