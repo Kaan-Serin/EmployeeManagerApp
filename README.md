@@ -27,7 +27,8 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
-
+## Overview of the Employee Manager Application:
 ![Web capture_7-5-2023_195841_localhost](https://user-images.githubusercontent.com/80674535/236694506-8d36091e-dd51-435c-b177-54cfcbccec7f.jpeg)
 
+## Adding a new employee:
 ![2](https://user-images.githubusercontent.com/80674535/236694618-07858bfa-6ab2-4401-be07-033163ab41f0.jpeg)
